@@ -1,0 +1,9 @@
+Nhóm 18 :
+	Nguyễn Hoàng Anh	3118410011
+	Trần Thị Kim Chi	3118410039
+	Võ Văn Gia Bảo		3118410028
+
+Tài khoản phần mềm admin:
+	username : admin
+	password : admin
+
